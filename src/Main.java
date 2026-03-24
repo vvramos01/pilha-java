@@ -18,7 +18,6 @@ public class Main {
 
         pilhaEstatica.exibir();
 
-
         System.out.println("\n============================\n");
 
 
